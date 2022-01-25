@@ -1,0 +1,15 @@
+.mercurio {
+  width: 4vw;
+}
+
+.venus, .terra, .urano, .netuno {
+  width: 10vw;
+}
+
+.marte {
+  width: 8vw;
+}
+
+.jupiter, .saturno {
+  width: 20vw;
+}
