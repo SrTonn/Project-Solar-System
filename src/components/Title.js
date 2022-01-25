@@ -1,3 +1,4 @@
+import '../styles/Title.css';
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 
