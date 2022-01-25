@@ -1,0 +1,19 @@
+.solar-system-container {
+  align-items: baseline;
+  display: flex;
+  justify-content: space-around;
+  overflow-x: hidden;
+  width: 99vw;
+}
+
+h2 {
+  border: 2px solid rgba(128, 128, 128, 0.658);
+  border-radius: 15px;
+  margin: 0 auto;
+  width: 95vw;
+}
+
+h1, h2 {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
